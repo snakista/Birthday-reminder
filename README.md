@@ -1,3 +1,1 @@
-## Idea
-
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+Project Link: https://birthday-reminder-basic-app.netlify.app/
